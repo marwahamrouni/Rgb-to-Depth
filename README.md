@@ -10,7 +10,8 @@ A supervised and an unsupervised models for predicting depth information impleme
 * CUDA 11.0 (if using CUDA)
 ## Example of results
 ### NYU Depth V2
-![alt text](https://github.com/marwahamrouni/RGBtoDEPTH/blob/master/Result%20example/result_example_nyu.png)
+![image](https://user-images.githubusercontent.com/24891694/167724587-11b5a0d4-8885-4dc8-88e4-f57e0e6592dd.png)
 ### KITTI
-![alt text](https://github.com/marwahamrouni/RGBtoDEPTH/blob/master/Result%20example/result_example_kitti.png)
+![image](https://user-images.githubusercontent.com/24891694/167724665-cfcf0f14-4c31-43f2-abd5-eaed3ea81734.png)
+
 
